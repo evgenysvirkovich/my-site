@@ -1,0 +1,10 @@
+site_name: my super site
+site_url: https://evgenysvirkovich.github.io/my-site/
+theme:
+  name: material
+site_author: Evgeny Svirkovich
+copyright: Evgeny Svirkovich, 2026
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
