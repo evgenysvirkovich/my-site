@@ -1,17 +1,50 @@
-# Welcome to MkDocs
+<!-- Вместо текущего содержания вставьте это -->
+<h1>Евгений Свиркович</h1>
+<p><strong>Системный администратор | DevOps-инженер</strong></p>
+<hr>
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+<h2>Обо мне</h2>
+<p>Системный администратор с [ваш опыт] опытом поддержки IT-инфраструктуры. Специализируюсь на администрировании Linux/Windows, сетевой безопасности и автоматизации рутинных задач. Ищу возможность применения своих навыков в динамичной компании.</p>
 
-## Commands
+<h2>Ключевые навыки</h2>
+<ul>
+    <li><strong>ОС:</strong> Linux (Ubuntu, CentOS, Debian), Windows Server (2016-2022)</li>
+    <li><strong>Сети:</strong> Настройка маршрутизаторов, VLAN, VPN, TCP/IP, DNS, DHCP</li>
+    <li><strong>Скриптинг:</strong> Bash, PowerShell, Python (базовый)</li>
+    <li><strong>Виртуализация:</strong> VMware ESXi, Proxmox VE</li>
+    <li><strong>Облачные технологии:</strong> AWS (EC2, S3), Yandex Cloud (начальный уровень)</li>
+    <li><strong>Мониторинг:</strong> Zabbix, Nagios</li>
+</ul>
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+<h2>Опыт работы</h2>
+<h3>Системный администратор | ООО "ТехноСервис"</h3>
+<p><em>Июнь 2020 - Настоящее время</em></p>
+<ul>
+    <li>Обеспечивал бесперебойную работу серверной инфраструктуры (20+ физических серверов).</li>
+    <li>Внедрил систему резервного копирования на основе Bacula, сократив время восстановления данных на 40%.</li>
+    <li>Настроил и поддерживал корпоративную VPN для 50+ удаленных сотрудников.</li>
+    <li>Автоматизировал рутинные задачи с помощью скриптов Bash, сэкономив 5 часов работы в неделю.</li>
+</ul>
 
-## Project layout
+<h3>Младший системный администратор | ИП "Сеть.ру"</h3>
+<p><em>Январь 2018 - Май 2020</em></p>
+<ul>
+    <li>Осуществлял первичную диагностику и устранение неисправностей на рабочих станциях (100+ ПК).</li>
+    <li>Администрировал Active Directory и учетные записи пользователей.</li>
+    <li>Обновлял парк компьютерной техники и устанавливал ПО.</li>
+</ul>
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+<h2>Образование и сертификаты</h2>
+<ul>
+    <li><strong>Высшее образование:</strong> [Название университета], специальность "Информационные системы и технологии"</li>
+    <li><strong>Сертификаты:</strong> Cisco CCNA (в процессе), Linux Professional Institute (LPIC-1)</li>
+</ul>
+
+<h2>Портфолио проектов</h2>
+<ul>
+    <li><strong>Этот сайт:</strong> Сверстал личную страницу-резюме на чистом HTML/CSS и разместил на GitHub Pages.</li>
+    <li><strong>Домашняя лаборатория:</strong> Развернул Proxmox с виртуальными машинами для тестирования Docker и Kubernetes.</li>
+</ul>
+
+<h2>Контакты</h2>
+<p>Email: evgeny.svir@example.com | Telegram: @evgeny_sys | GitHub: evgenysvirkovich</p>
