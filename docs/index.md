@@ -5,12 +5,12 @@
     <style>
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            max-width: 900px;
+            max-width: 1200px;
             margin: 40px auto;
-            padding: 20px 40px;
+            padding: 20px 60px;
             background-color: #f4f7f9;
             color: #333;
-            line-height: 1.6;
+            line-height: 1.8;
             box-shadow: 0 0 20px rgba(0,0,0,0.1);
         }
         h1 {
