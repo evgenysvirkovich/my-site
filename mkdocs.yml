@@ -3,7 +3,7 @@ site_url: https://evgenysvirkovich.github.io/my-site/
 theme:
   name: material
 nav:
-  - Главная: index.md
+  - Резюме: index.md
 site_author: Evgeny Svirkovich
 copyright: Evgeny Svirkovich, 2026
 markdown_extensions:
