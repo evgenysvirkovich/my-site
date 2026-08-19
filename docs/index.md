@@ -81,7 +81,7 @@ title: Евгений Свиркович - Резюме
 
 ## 📬 Контакты
 
-*   **Email:** zhenyasvirkovich@gmail.com
-*   **Telegram:** @zhenyasv
-*   **LinkedIn:** [linkedin.com/in/evgeniy-svirkovich](https://www.linkedin.com/in/evgeniy-svirkovich-a51b3b220/)
-*   **GitHub:** [github.com/evgenysvirkovich](https://github.com/evgenysvirkovich)
+*   **Email:** <a href="mailto:zhenyasvirkovich@gmail.com">zhenyasvirkovich@gmail.com</a>
+*   **Telegram:** <a href="https://t.me/zhenyasv" target="_blank">@zhenyasv</a>
+*   **LinkedIn:** <a href="https://www.linkedin.com/in/evgeniy-svirkovich-a51b3b220/" target="_blank">linkedin.com/in/evgeniy-svirkovich</a>
+*   **GitHub:** <a href="https://github.com/evgenysvirkovich" target="_blank">github.com/evgenysvirkovich</a>
